@@ -3,6 +3,7 @@
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-6+-orange)
 ![Node](https://img.shields.io/badge/Node.js-22+-green)
 ![Express](https://img.shields.io/badge/Express-Framework-black)
 ![React](https://img.shields.io/badge/React-18-blue)
